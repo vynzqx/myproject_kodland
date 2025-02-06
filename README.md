@@ -1,2 +1,0 @@
-# myproject_kodland
-testing
